@@ -7,7 +7,7 @@ French Toast is an easy and effective breakfast that anyone can make.
 - **Cook:** 5 min
 - **Total:** 10min
 - **Servings:** 1 serving
-- **Cost:** about $8
+- **Cost:** about $31
 
 # Ingredients
 
